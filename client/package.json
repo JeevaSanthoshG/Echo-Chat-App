@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@hookform/resolvers": "^3.3.4",
+    "emoji-mart": "^5.5.2",
+    "emoji-mart-mastodon": "^3.0.1-mastodon-1",
+    "prop-types": "^15.8.1",
+    "react-hook-form": "^7.51.1",
+    "yup": "^1.4.0"
+  }
+}
